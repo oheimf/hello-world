@@ -1,2 +1,2 @@
 # hello-world
-just another copy
+just another copy of the hello world project
